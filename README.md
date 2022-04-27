@@ -8,18 +8,18 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ This program used a model to run a set amount of test and displays results for those given tests in main. 
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+None 
 
 ## REFERENCES:
- < List any outside resources used >
+None 
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+I never do this but I must have missed seeing this assignment so I know it is late but I still wanted to submit it and hopefully will get at least some credit for it. I have not used any of my grace days because it is way over 5 days late so I didnt think it was necesary but if it will give me more points please use them.
